@@ -1,1 +1,6 @@
-# NM_CITIZION_INTELLIGENT-CITIZEN-ENGAGEMENT-PLATFORM-
+# Project Files & Links
+
+- 📄 *PDF Report:* [project1.pdf](project1.pdf)
+- 📓 *app.py.ipynb Notebook:* [citizen.ipynb](citizen.ipynb)
+- 🤖 *Live Hugging Face:* [citizen-AI1 Space](https://huggingface.co/spaces/23ucs529/intelligent_citizen)
+- 🎥 *Demo Video:* [Watch here](https://drive.google.com/file/d/1bGNdy3eYVAOE4iEzrUKFFJgmllpR2ez-/view?usp=drivesdk)
